@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 
 ## You can ask me about project management, programming languages, communication skills and business development
 
-You can connect me:
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg">](https://www.linkedin.com/in/emre-colak/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@colakkemreee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@colakkemreee" height="30" width="40" /></a>
