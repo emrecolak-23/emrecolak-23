@@ -1,6 +1,6 @@
 ### Hi there, It's me 👋
 
-## I am a Mechanical Engineer, Six Sigma Green Belt, iOS Developer and Project Manager
+## I am a Mechanical Engineer, Six Sigma Green Belt, Javascript Developer and Project Manager
 
 Here are some ideas to get you started:
 
