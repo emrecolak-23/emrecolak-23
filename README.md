@@ -1,6 +1,6 @@
 ### Hi there, It's me 👋
 
-## I am a Mechanical Engineer, Six Sigma Green Belt, Javascript Developer and Project Manager
+## I am Mechanical Engineer turned Senior Full Stack Developer | Building scalable backend systems with Node.js, Go & React
 
 Here are some ideas to get you started:
 
